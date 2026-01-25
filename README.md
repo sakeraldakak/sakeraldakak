@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saker Al Dakak
 
 🚀 **Senior Flutter Developer** | Full-Stack Capabilities  
-Specializing in **cross-platform mobile apps** with Flutter, while building robust backends with **Laravel** and modern web frontends with **Next.js**.  
+Specializing in **cross-platform mobile apps** with **Flutter**, while building robust backends with **Laravel** and modern web frontends with **Next.js**.  
 Creating real-world, production-ready solutions — mobile + web + backend.
 
 ---
