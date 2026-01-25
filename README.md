@@ -9,6 +9,7 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 - 📱 **Core expertise**: Flutter & Dart (Mobile + Web)
 - 🔧 Full-Stack experience: **Laravel** (PHP backend + Livewire), **Next.js** (TypeScript/React frontend)
 - 🗄️ Databases: MySQL, PostgreSQL + Firebase ecosystem
+- 🤖 Leveraging **AI tools** daily to accelerate development, improve code quality, generate tests, and explore architecture (Cursor, Claude, ChatGPT, Gemini)
 - 🏗️ Focus: Clean Architecture, Scalable & Maintainable code, Business-oriented products
 - 🌏 Damascus-based • Open to remote work, freelance & collaborations
 
@@ -36,6 +37,7 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 **Tools & DevOps**  
 - Git & GitHub
 - Vercel Hosting
+- AI-assisted coding: Cursor, Claude, ChatGPT, Gemini
 
 ---
 ## 📌 Featured Projects
@@ -45,12 +47,6 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 
 - **[Al-Arbash](https://github.com/SakerDakak/Al-Arbash)**  
   Jewelry chain management system – Flutter mobile apps (staff + customer support) + web backend integration
-
-- **[ur-fit](https://github.com/SakerDakak/ur-fit)**  
-  Fitness tracking & workout application – Fully cross-platform with Flutter
-
-- **[smartpay-dashboard](https://github.com/SakerDakak/smartpay-dashboard)** / **[taxipay-dashboard](https://github.com/SakerDakak/taxipay-dashboard)**  
-  Modern admin panels & dashboards – Built with Next.js + TypeScript
 
 - **Various Laravel Backends** (private repos)  
   Production APIs powering mobile & web apps – Laravel + MySQL/PostgreSQL
