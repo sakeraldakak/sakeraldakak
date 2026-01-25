@@ -9,7 +9,7 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 - 📱 **Core expertise**: Flutter & Dart (Mobile + Web)
 - 🔧 Full-Stack experience: **Laravel** (PHP backend + Livewire), **Next.js** (TypeScript/React frontend)
 - 🗄️ Databases: MySQL, PostgreSQL + Firebase ecosystem
-- 🤖 Leveraging **AI tools** daily to accelerate development, improve code quality, generate tests, and explore architecture (Cursor, Claude, ChatGPT, Gemini)
+- 🤖 Leveraging **AI tools** daily to accelerate development, improve code quality, generate tests, and explore architecture
 - 🏗️ Focus: Clean Architecture, Scalable & Maintainable code, Business-oriented products
 - 🌏 Damascus-based • Open to remote work, freelance & collaborations
 
