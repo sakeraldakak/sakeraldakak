@@ -54,14 +54,6 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 👉 More details in my **pinned repositories** below ⬇️
 
 ---
-## 📊 Quick Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakeraldakak&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakeraldakak&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
 ## 📫 Let's Connect
 
 - **LinkedIn**: https://linkedin.com/in/sakeraldakak
