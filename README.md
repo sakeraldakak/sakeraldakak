@@ -10,7 +10,7 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 - 🔧 Full-Stack experience: **Laravel** (PHP backend + Livewire), **Next.js** (TypeScript/React frontend)
 - 🗄️ Databases: MySQL, PostgreSQL + Firebase ecosystem
 - 🏗️ Focus: Clean Architecture, Scalable & Maintainable code, Business-oriented products
-- 🌏 Tokyo-based • Open to remote work, freelance & collaborations
+- 🌏 Damascus-based • Open to remote work, freelance & collaborations
 
 ---
 ## 🛠 Tech Stack
@@ -20,21 +20,21 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 - Flutter for Web & Desktop  
 
 **Frontend / Web**  
-- Next.js 14+ (App Router, TypeScript, Tailwind CSS)  
+- Next.js (App Router, TypeScript, Tailwind CSS)  
+- Laravel (Livewire, Blade)
 - Responsive & SEO-friendly web applications  
 
 **Backend**  
-- Laravel (REST/GraphQL APIs, Sanctum, Queues, Livewire)  
+- Laravel (REST APIs)  
 - Node.js basics (when needed)  
-- Firebase (Authentication, Firestore, Cloud Functions, Storage)  
+- Firebase (Authentication, Firestore, Storage)  
 
 **Databases**  
-- MySQL / PostgreSQL (schema design, complex queries, migrations, optimization)  
+- MySQL / PostgreSQL (schema design, queries, migrations, optimization)  
 - Firebase Firestore (NoSQL real-time)  
 
 **Tools & DevOps**  
-- Git & GitHub  
-- GitHub Actions (CI/CD basics)  
+- Git & GitHub
 - Vercel Hosting
 
 ---
@@ -68,7 +68,7 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 ---
 ## 📫 Let's Connect
 
-- **LinkedIn**: https://www.linkedin.com/in/sakeraldakak
+- **LinkedIn**: https://linkedin.com/in/sakeraldakak
 - **Facebook**: https://facebook.com/sakeraldakak  
 - **Instagram**: https://instagram.com/sakeraldakak
 - **WhatsApp**: https://wa.me/963958855414
