@@ -56,29 +56,25 @@ Real-world, production-grade apps & systems delivered to clients with live demos
   → Flutter + Firebase (real-time, auth, notifications, maps, payments, chat)  
   → Features: Booking flow, salon dashboard, online product store, loyalty & coupons  
   → Live demos:  
-    • [Client APK](https://github.com/sakeraldakak/Salonek/releases/download/Salonek/Salonek.apk)  
-    • [Master/Salon APK](https://github.com/sakeraldakak/Salonek/releases/download/Salonek/Salonek_Master.apk)  
-    • [Dashboard Preview](https://sakerdakak.github.io/Salonek/)  
-  → Clean Architecture
+    • [Client APK](https://github.com/sakeraldakak/Salonek/releases/download/Salonek/Salonek.apk)  |  [Master/Salon APK](https://github.com/sakeraldakak/Salonek/releases/download/Salonek/Salonek_Master.apk)  |  [Dashboard Preview](https://sakerdakak.github.io/Salonek/)
+
+  (login credentials in repo README)
 
 - **[Al-Arbash](https://github.com/sakeraldakak/Al-Arbash)**  
   **Enterprise jewelry chain management system** (Saudi Arabia – multi-branch)  
   → Two Flutter mobile apps: Staff operations + Customer post-sale support  
   → Integrated Laravel backend + real-time gold pricing, inventory (QR/image), CRM, analytics  
   → Live demos:  
-    • [Client APK](https://github.com/sakeraldakak/Al-Arbash/releases/download/Al-Arbash.Client/Al-Arbash.Client.apk)  
-    • [Master APK](https://github.com/sakeraldakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.arm64-v8.apk)  
-    • [Dashboard Preview](https://sakerdakak.github.io/Al-Arbash/) (login credentials in repo README)  
-  → Delivered full-stack solution improving efficiency for a growing chain
+    • [Client APK](https://github.com/sakeraldakak/Al-Arbash/releases/download/Al-Arbash.Client/Al-Arbash.Client.apk)  |  [Master APK](https://github.com/sakeraldakak/Al-Arbash/releases/download/Al-Arbash.Master/Al-Arbash.Master.arm64-v8.apk) | [Dashboard Preview](https://sakerdakak.github.io/Al-Arbash/)
+
+  (login credentials in repo README)  
 
 - **[Kitchen-Orders](https://github.com/sakeraldakak/Kitchen-Orders)**  
   **Efficient restaurant kitchen order management app**  
   → Flutter app for receiving, tracking & completing orders in real-time  
   → Focus: Minimize errors, reduce wait times, easy POS integration  
   → Live demos:  
-    • [APK Download](https://github.com/sakeraldakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk)  
-    • [Website Preview](https://sakerdakak.github.io/Kitchen-Orders/)  
-  → Practical tool actively used in food service
+    • [APK Download](https://github.com/sakeraldakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk) | [Website Preview](https://sakerdakak.github.io/Kitchen-Orders/)  
 
 **Additional private projects** (Laravel APIs, Next.js, PostgreSQL/MySQL backends) powering multiple apps – happy to share details/case studies in calls or interviews.
 
