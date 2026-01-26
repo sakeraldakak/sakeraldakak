@@ -13,6 +13,13 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 - 🏗️ Focus: Clean Architecture, Scalable & Maintainable code, Business-oriented products
 - 🌏 Damascus-based • Open to remote work, freelance & collaborations
 
+🔍 **Open to Work**
+- Remote positions (Worldwide)
+- Freelance projects (short/long-term)
+- Full-time roles
+- Collaborations on Flutter/Laravel/Next.js stacks
+Available immediately • Flexible rates • English/Arabic
+
 ---
 ## 🛠 Tech Stack
 
@@ -59,6 +66,8 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 - **LinkedIn**: https://linkedin.com/in/sakeraldakak
 - **Facebook**: https://facebook.com/sakeraldakak  
 - **Instagram**: https://instagram.com/sakeraldakak
+- **Youtube**: https://www.youtube.com/@sakeraldakak
+- **X/Twitter**: https://x.com/sakeraldakak
 - **Behance**: https://www.behance.net/sezarddesign
 - **WhatsApp**: https://wa.me/963958855414
 - **Email**: sakeraldakak@gmail.com  
@@ -66,4 +75,10 @@ Creating real-world, production-ready solutions — mobile + web + backend.
 Open for: Freelance • Full-time roles • Project collaborations  
 (especially Flutter + Laravel/Next.js stacks)
 
+Feel free to message me on WhatsApp/LinkedIn for opportunities or questions!
+
 Thanks for visiting! 🚀
+
+---
+#flutter #dart #mobiledevelopment #laravel #nextjs #firebase #cleanarchitecture #remotework #freelancedeveloper #fullstack
+
