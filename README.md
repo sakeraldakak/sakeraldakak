@@ -89,6 +89,7 @@ Real-world, production-grade apps & systems delivered to clients with live demos
 - **Instagram**: https://instagram.com/sakeraldakak
 - **Youtube**: https://www.youtube.com/@sakeraldakak
 - **X/Twitter**: https://x.com/sakeraldakak
+- **Mostaql**: https://mostaql.com/u/sakeraldakak
 - **Behance**: https://www.behance.net/sezarddesign
 - **WhatsApp**: https://wa.me/963958855414
 - **Email**: sakeraldakak@gmail.com  
